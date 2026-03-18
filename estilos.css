@@ -6,8 +6,8 @@ body {
 
 /* Header */
 header {
-  background: beige;
-  color: white;
+  background: red;
+  color: yellow ;
   padding: 15px;
   display: flex;
   justify-content: space-between;
